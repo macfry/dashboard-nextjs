@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Dashboard Page',
 };
 
-export const experimental_ppr = true;
+// export const experimental_ppr = true;
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
